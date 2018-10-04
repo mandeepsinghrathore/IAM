@@ -1,2 +1,3 @@
-# IAM
-Authentication and authorization using spring security and oAuth2
+# Account Service
+
+The account service is responsible for storing the account information of a user.
